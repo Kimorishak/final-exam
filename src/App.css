@@ -1,0 +1,27 @@
+body {
+  background-color: aquamarine;
+}
+.kim {
+  color: blueviolet;
+}
+.tuneh {
+  color: blueviolet;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 50px;
+  align-items: center;
+}
+button {
+  color: blue;
+  border-radius: 8px;
+  background-color: rgb(64, 146, 119);
+  width: 80px;
+  padding: 10px 5px;
+}
+.tob {
+  margin-top: 100px;
+}
+.err {
+  color: red;
+}
